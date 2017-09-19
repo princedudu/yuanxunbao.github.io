@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "A Gaussian-like immersed-boundary kernel with three continuous derivatives and improved translational invariance"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
