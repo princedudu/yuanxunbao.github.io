@@ -2,7 +2,7 @@
 title: "A fluctuating boundary integral method for Brownian suspensions"
 collection: publications
 permalink: /publicatiAon/2017-12-31-FBIM-submitted
-excerpt: 'We present a fluctuating boundary integral method (FBIM) for simulating the overdamped (diffusive) dynamics suspensions of rigid particles of arbitrary shape immersed in a Stokes fluid. We develop efficient, accurate and lienar-scaling algorithms to generate both the deterministic and stochastic dynamics of the particles.'
+excerpt: 'We present a fluctuating boundary integral method (FBIM) for simulating the overdamped (diffusive) dynamics of suspensions of rigid particles of arbitrary shape immersed in a Stokes fluid. We develop efficient, accurate and lienar-scaling algorithms to generate both the deterministic and stochastic dynamics of the particles.'
 date: 2017-12-31
 venue: 'XXXX'
 paperurl: 'https://arxiv.org/abs/1709.01480'
