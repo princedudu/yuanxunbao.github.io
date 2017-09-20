@@ -1,7 +1,7 @@
 ---
 title: "A fluctuating boundary integral method for Brownian suspensions"
 collection: publications
-permalink: /publication/2017-09-06-FBIM-submitted
+permalink: /publication/2017-12-31-FBIM-submitted
 excerpt: 'A fluctuating boundary integral method for Brownian suspensions is proposed.'
 date: 2017-12-31
 venue: 'XXXX'
