@@ -3,10 +3,10 @@ title: "A fluctuating boundary integral method for Brownian suspensions"
 collection: publications
 permalink: /publication/2017-09-06-FBIM-submitted
 excerpt: 'A fluctuating boundary integral method for Brownian suspensions is proposed.'
-date: 2017-09-06
+date: 2017-12-31
 venue: 'XXXX'
 paperurl: 'https://arxiv.org/abs/1709.01480'
-citation: 'Y. Bao, M. Rachh, E. Keaveny, L. Greengard and A. Donev. A fluctuating boundary integral method for Brownian suspensions. Submitted to <i>Journal of Computational Physics</i> 2017.'
+citation: 'Y. Bao, M. Rachh, E. Keaveny, L. Greengard and A. Donev. A fluctuating boundary integral method for Brownian suspensions. Submitted to <i>Journal of Computational Physics</i>, 2017.'
 ---
 
 [Download PDF here](https://arxiv.org/pdf/1709.01480.pdf)
