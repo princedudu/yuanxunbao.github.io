@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.Sc. and M.Sc in Applied Mathematics, Simon Fraser University, 2011, 2012
-  Supervisor: Prof. David Muraki
-  Thesis (M.Sc): On the par
+* B.Sc., M.Sc in Applied Mathematics, Simon Fraser University, 2011, 2012
+  * Supervisor: Prof. [David Muraki](http://people.math.sfu.ca/~muraki/)
+  * Thesis (M.Sc): [*On the parametric instabilities of internal gravity waves in a density-stratified fluid.*](http://summit.sfu.ca/item/12424)
 * Ph.D in Mathematics, Courant Institute of Mathematical Sciences, New York University, 2018 (expected)
+  * Advisor: Prof. [Aleksandar Donev](http://cims.nyu.edu/~donev/)
+  * Dissertation topic: *Efficient and accurate numerical methods for simulating fluid-strucutre interactions.*
 
 Publications
 ======
